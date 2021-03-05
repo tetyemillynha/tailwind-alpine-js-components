@@ -31010,32 +31010,6 @@ ul {
   list-style: none;
 }
 
-.menu {
-  grid-column: 3/5;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  background: #FB5;
-}
-
-.menu ul {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 10px;
-}
-
-.menu li a {
-  display: block;
-  padding: 10px;
-  margin-right: 10px;
-  color: #222;
-  text-decoration: none;
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 0.1em;
-}
-
 @-webkit-keyframes show-up {
   from {
     opacity: 0;
@@ -31103,25 +31077,6 @@ body {
   bottom: -4.0625rem;
   box-shadow: 0 0.0625rem 0 0.0625rem #de2326;
   opacity: 1;
-}
-
-.c-breadcrumb__item:first-child {
-  margin-left: 0;
-}
-
-.c-breadcrumb__link::after {
-  background: url('data:image/svg+xml;utf8,<svg class="fill-current text-red-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"><path fill="none" d="M0 0h48v48H0z"></path><path d="M33.61 22.422L15.579 4.441a1.511 1.511 0 00-2.134 2.14l16.958 16.911L13.444 40.4a1.511 1.511 0 002.135 2.14L33.61 24.559a1.51 1.51 0 000-2.14z"></path></svg>') center center no-repeat;
-  display: inline-block;
-  font-size: inherit;
-  height: 0.9375rem;
-  width: 0.6875rem;
-  content: "";
-  position: absolute;
-  pointer-events: none;
-  filter: invert(22%) sepia(51%) saturate(4767%) hue-rotate(346deg) brightness(89%) contrast(96%);
-  right: -1.25rem;
-  top: 0.1rem;
-  transform: none;
 }
 
 .cursor {

@@ -4,24 +4,6 @@ module.exports = {
     './resources/**/*.php'
   ],
   theme: {
-    // colors:{
-    //   red:{
-    //     900 : '#b11316',
-    //     500 : '#de2326',
-    //     200 : '#ff6e70'
-    //   },
-    //   gray:{
-    //     900 : '#313131',
-    //     600 : '#646b72',
-    //     400 : '#959595',
-    //     200 : '#d1d1d1',
-    //   },
-    //   success : '#74de23',
-    //   alert: '#fdd300',
-    //   danger: '#e95a24',
-    //   white: '#ffffff',
-    //   black: '#000000'
-    // },
     container: {
       center: true,
       padding: {

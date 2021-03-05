@@ -7,10 +7,7 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
-        {{-- <link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet"> --}}
-        {{-- <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"> --}}
         <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet">
-        {{-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous"> --}}
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
         <!-- Styles -->
         <link href="{{ asset('/css/app.css') }}" rel="stylesheet">

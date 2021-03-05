@@ -11,7 +11,7 @@
 
             <div x-data="{ open: false }">
                 <button class="bg-gray-600 hover:bg-gray-800 rounded-md p-3 text-white inline-flex justify-center focus:outline-none m-3" @click="open = true">Open Modal</button>
-                @include('components.modal')
+                @include('components.modal-apjs')
             </div>
         </div>
     </div>
