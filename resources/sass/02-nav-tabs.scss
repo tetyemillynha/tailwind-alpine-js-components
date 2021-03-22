@@ -1,7 +1,0 @@
-/* Styles tab pane */
-html [data-tab="content"] .tab-pane {
-    display: none;
-}
-[data-tab="content"] .tab-pane.active {
-    display: block !important;
-}

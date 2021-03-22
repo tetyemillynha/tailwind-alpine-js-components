@@ -14,9 +14,9 @@
   @apply bg-white inline-block py-1;
 }
 
-.nav-tabs .nav-link.active{
-  @apply border-b-4 ;
-}
+// .nav-tabs .nav-link.active{
+//   @apply border-b-4 ;
+// }
 
 //Buttons
 .btn{
@@ -49,6 +49,10 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 
+button[disabled*="disabled"]{
+  opacity: 0.5;
+}
+
 //Dropdown menu
 .leading-10 {
   line-height: 3.5rem !important;
@@ -58,6 +62,18 @@ body{
   overflow: hidden;
 }
 
+.font-arvo-regular{
+  font-family: 'Arvo', serif;
+  font-weight: 400;
+}
+.font-arvo-bold{
+  font-family: 'Arvo', serif;
+  font-weight: 700;
+}
+
+.font-size-18{
+  font-size: 18px;
+}
 //Cards
 .c-card-hover:hover{
   .c-card-hover__footer{

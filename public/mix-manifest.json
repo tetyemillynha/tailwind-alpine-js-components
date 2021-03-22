@@ -1,4 +1,14 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/images/html5_icon.svg": "/images/html5_icon.svg",
+    "/images/iconfinder_git-branch_298785.svg": "/images/iconfinder_git-branch_298785.svg",
+    "/images/javascript-logo.svg": "/images/javascript-logo.svg",
+    "/images/laravel_icon.svg": "/images/laravel_icon.svg",
+    "/images/logo_css3.svg": "/images/logo_css3.svg",
+    "/images/minha-foto-2.jpeg": "/images/minha-foto-2.jpeg",
+    "/images/minha-foto.jpeg": "/images/minha-foto.jpeg",
+    "/images/pngegg.png": "/images/pngegg.png",
+    "/images/symfony_icon.svg": "/images/symfony_icon.svg",
+    "/images/vuejs_logo.svg": "/images/vuejs_logo.svg"
 }
